@@ -82,7 +82,7 @@ HackerRank
 
 Evaluation, Constraints Testing, and Test Case Validations
 
-💻 How to Run the Code
+## 💻 How to Run the Code
 
 Python
 
