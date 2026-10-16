@@ -1,10 +1,10 @@
-🚀 Zelid Tech - Coding Challenge Series 1
+## 🚀 Zelid Tech - Coding Challenge Series 1
 
 Welcome to the Zelid Tech Coding Challenge Series 1 repository! This repository contains my complete solutions for all 5 weeks of coding challenges conducted by Zelid Tech on HackerRank.
 
 The challenges were designed to test problem-solving skills, algorithmic efficiency, object-oriented concepts, and clean coding practices using Python and Java.
 
-📌 Repository Overview
+## 📌 Repository Overview
 
 Organizer: Zelid Tech
 
@@ -16,9 +16,9 @@ Languages Used: Python 3, Java 7/8
 
 Topics Covered: Basic Logic, Array Manipulations, Searching Algorithms, Hash Maps / Dictionaries, Object-Oriented Programming (OOP), String Algorithms, and Financial Calculations.
 
-🗓️ Weekly Breakdown & Task Summary
+## 🗓️ Weekly Breakdown & Task Summary
 
-🔹 Week 1: Fundamental Logic & Math
+## 🔹 Week 1: Fundamental Logic & Math
 
 Task 1 — Duplicate Number Finder (Python): Found duplicate numbers in an array from $1$ to $N$ in $O(N)$ time and $O(1)$ auxiliary space using Floyd’s Cycle Detection Algorithm (Tortoise and Hare) without additional data structures.
 
@@ -28,7 +28,7 @@ Task 3 — Second Largest Number Finder (Java): Discovered the second largest di
 
 Task 4 — Student Grade Calculator (Java): Handled mark input across 5 subjects, calculated total, average, and mapped grade boundaries (Grade A to F).
 
-🔹 Week 2: Functions, Data Management & Basic Algorithms
+## 🔹 Week 2: Functions, Data Management & Basic Algorithms
 
 Task 1 — Armstrong Number Checker (Python): Computed dynamic power sums of extracted digits to verify Armstrong number criteria.
 
@@ -38,7 +38,7 @@ Task 3 — Palindrome Number Checker (Java): Reversed integer digits mathematica
 
 Task 4 — Employee Salary Calculator (Java): Calculated corporate salary components ($HRA = 20\%$, $DA = 10\%$, $PF = 12\%$) to compute Gross and Net Salaries.
 
-🔹 Week 3: Strings, Dictionaries & Object-Oriented Programming
+## 🔹 Week 3: Strings, Dictionaries & Object-Oriented Programming
 
 Task 1 — Student Grade Calculator (Python): Multi-branch conditional logic to compute total, floating-point average, and grade mapping for 3 subjects.
 
@@ -48,7 +48,7 @@ Task 3 — Student Details Using Class (Java): Practiced core OOP concepts (Enca
 
 Task 4 — Array Element Search (Java): Implemented a $O(N)$ linear search traversal to identify array target values and return 0-based indices or fallback messages.
 
-🔹 Week 4: Core HackerRank Challenge Tasks
+## 🔹 Week 4: Core HackerRank Challenge Tasks
 
 Task 1 — Positive, Negative, or Zero: Condition branch checking for standard integer bounds.
 
@@ -58,13 +58,13 @@ Task 3 — Count Vowels: Character array manipulation and case-insensitive strin
 
 Task 4 — Prime Number Check: Basic primality testing algorithm to validate integer factors.
 
-🔹 Week 5: Final Challenge (Application Logic & String Processing)
+## 🔹 Week 5: Final Challenge (Application Logic & String Processing)
 
 Task 1 — Employee Program (Python): Dynamic record tracking module to calculate salary structures and manage employee entity attributes.
 
 Task 2 — Email Program (Python): String validation and parsing pipeline to process email address formats, extract domain names, and verify formatting rules.
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 Language / Tool
 
@@ -99,6 +99,6 @@ javac week_1/Task3_SecondLargest.java
 java Task3_SecondLargest
 
 
-🤝 Acknowledgments
+## 🤝 Acknowledgments
 
 Special thanks to Zelid Tech for hosting and organizing this 5-Week Coding Challenge Series. It was an incredible journey to sharpen algorithmic thinking, enhance logic-building skills, and write clean, efficient code!
